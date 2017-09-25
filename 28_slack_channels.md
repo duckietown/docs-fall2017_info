@@ -2,14 +2,16 @@
 
 This page describes all of the helpful Slack channels and their purposes so that you can figure out where to get help.
 
-## Channels
+## Channels {#slack_channels-channels}
 
+You can also easily join the ones that you are interested in by
+[clicking the links in this message](https://duckietown.slack.com/archives/C0DLY9AHY/p1506180585000070).
 
 <col2 figure-id="tab:slack_channels_list" figure-caption="Duckietown Slack Channels" figure-class="labels-row1">
 <span>Channel</span>
 <span>Purpose</span>
 <code>help-accounts</code>
-<span>Info about necessary accounts, such as Slack, Github, etc</span>
+<span>Info about necessary accounts, such as Slack, Github, etc.</span>
 <code>help-assembly</code>
 <span>Help putting your robot together</span>
 <code>help-camera-calib</code>
@@ -32,4 +34,12 @@ This page describes all of the helpful Slack channels and their purposes so that
 <span>Help doing your odometry calibration</span>
 </col2>
 
-Comment: Note that you can link directly to the channel. (See list in the org sheet.) -AC
+Comment: Note that we can link directly to the channels. (See list in the org sheet.) -AC
+
+
+<style>
+#tab\:slack_channels_list td { text-align: left;}
+#tab\:slack_channels_list td:nth-child(1) {
+    width: 30%;
+}
+</style>
