@@ -1,4 +1,4 @@
-# Logistics for Montréal branch {#logistics_UDEM status=beta}
+# Logistics for Montréal branch {#logistics_UDEM status=ready}
 
 This unit contains all necessary info specific for students at Univeristé de Montréal.
 

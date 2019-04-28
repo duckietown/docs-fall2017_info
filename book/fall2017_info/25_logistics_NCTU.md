@@ -1,6 +1,4 @@
-# Logistics for NCTU branch {#logistics_NCTU status=beta}
-
-Assigned: Nick and Eric (Nick's student)
+# Logistics for NCTU branch {#logistics_NCTU status=ready}
 
 This section describes information specific to NCTU students.
 
@@ -11,7 +9,7 @@ The [Duckietown Taiwan Branch Website](http://duckietown.nctu.edu.tw/) provides 
 
 ### Class Schedule
 
-Classes take place on Thursday from 1:20pm~4:20om in NCTU Engineering Building 5 Room 635. Each class will be devided into two sessoins. In the first session, Professor Wang will give lessons on foundamental theory and inspire students to come up more creatitive but useful ideas on final projects. In the second sessoin, TAs will give pratical lab on how to use Duckietown platform as their project platform and use ROS as their middleware toward a fantastic work. 
+Classes take place on Thursday from 1:20pm~4:20om in NCTU Engineering Building 5 Room 635. Each class will be devided into two sessoins. In the first session, Professor Wang will give lessons on foundamental theory and inspire students to come up more creatitive but useful ideas on final projects. In the second sessoin, TAs will give pratical lab on how to use Duckietown platform as their project platform and use ROS as their middleware toward a fantastic work.
 
 The class schedule is maintained as part of the [NCTU Class Diary](#schedule_NCTU), which includes details on lecture topics, links to slides, etc.
 
@@ -23,8 +21,8 @@ This course aims at developing software projects usable in real-world, and focus
 
 * Class Participation, In Class Quiz, Problem Sets (10%)
 * Midterm Presentation (30%)
-* Final Presentation (30%) 
-* Project Report and Demo Video (30%) 
+* Final Presentation (30%)
+* Project Report and Demo Video (30%)
 
 See the [course syllabus](https://goo.gl/KPQQHL) for more information on course object and grading policy.
 
@@ -66,4 +64,3 @@ Duckietown is a collaborative effort involving close interaction among students,
 * Chen-Hao 'Peter' Hung (losttime1001@gmail.com)
 * Hong-Ming 'Peter' Huang (peterx7803@gmail.com)
 * Tzu-Kuan 'Brian' Chuang (fire594594594@gmail.com)
-

@@ -1,4 +1,4 @@
-# Template of a project {#project-template status=beta}
+# Template of a project {#project-template status=ready}
 
 
 Make a copy of this document before editing.
@@ -24,7 +24,7 @@ Summarize the mission for the team - What is the need that is being addressed? D
 
 ## Relevant Resources
 
-List papers, open source code, pages in the Duckiebook, lecture slides, etc, that could be relevant in your quest. 
+List papers, open source code, pages in the Duckiebook, lecture slides, etc, that could be relevant in your quest.
 
 ## Deliverables (Goals)
 
@@ -48,12 +48,12 @@ Example 2: At least 20 hours of logs Duckiebots annotated
    - Performance:
 
 
-Part of the deliverables should be: 
+Part of the deliverables should be:
 
-1. A new or improved functionality (demonstrated live and with a video) with well-documented code, 
+1. A new or improved functionality (demonstrated live and with a video) with well-documented code,
 2. A approx 15-20min presentation about the functionality (with a slide deck + 1 slide overview poster to be shown at public demo),
-3. A technical description of the underlying method in the form of a page in the Duckiebook, 
-4. Instructions for reproducing the functionality in the form of a page in the duckiebook. 
+3. A technical description of the underlying method in the form of a page in the Duckiebook,
+4. Instructions for reproducing the functionality in the form of a page in the duckiebook.
 
 
 ## Proposed Approach
@@ -100,4 +100,3 @@ So and so should do such and such
 
  - Link 1
  - Link 2
-

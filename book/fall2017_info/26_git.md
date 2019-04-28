@@ -178,7 +178,7 @@ Through Github:
 You may make as many releases as you like before the deadline.
 
 
-### Merging things back {status=draft}
+### Merging things back
 
 Once all deadlines have passed for all institutions, we can merge all the homework.
 We will ask to create a "Pull Request" from your private repo.
@@ -218,7 +218,7 @@ Update the symlink you created in your duckietown repo
 
 </div>
 
-## Git policy for project development {#git-policy-projects status=draft}
+## Git policy for project development {#git-policy-projects}
 
 
 Different than the homeworks, development for the projects will take place in the `Software` repo since plagiarism is not an issue here. The process is:

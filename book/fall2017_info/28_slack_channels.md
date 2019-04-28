@@ -1,4 +1,4 @@
-# Slack Channels {#slack_channels status=beta}
+# Slack Channels {#slack_channels status=ready}
 
 This page describes all of the helpful Slack channels and their purposes so that you can figure out where to get help.
 

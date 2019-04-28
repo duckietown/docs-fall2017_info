@@ -1,3 +1,1 @@
-# Guide for mentors {#guide-for-mentors status=draft}
-
-Assigned: Liam?
+# Guide for mentors {#guide-for-mentors status=beta}

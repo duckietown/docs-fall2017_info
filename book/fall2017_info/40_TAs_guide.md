@@ -1,4 +1,4 @@
-# Guide for TAs {#guide-for-TAs status=beta}
+# Guide for TAs {#guide-for-TAs status=ready}
 
 ## Dramatis personae
 
@@ -62,8 +62,6 @@ Install the Duckuments system, so you can edit these instructions.
 
 See: [](+duckumentation#contribute).
 
-Point of Contact: Andrea
-
 ### Learn about Git and Github
 
 Start learning about Git and Github. You don't have to read the entirety of the
@@ -73,28 +71,17 @@ See: [Good book](https://git-scm.com/book/en/v2)
 
 See: [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
 
-Point of Contact: Liam?
-
 ### Continuous integration
 
 Understand the continuous integration system.
 
 See: [Documentation on continuous integration](+software_devel#continuous-integration).
 
-Point of Contact: Andrea
-
 ### Duckiebot building
 
 Build your Duckiebot according to the instructions.
 
 See: [](+opmanual_duckiebot#building-duckiebot-c0)
-
-
-Point of Contact: Shiying (ETH)
-
-Point of Contact: ??? (UdeM)
-
-Point of Contact: ??? (TTIC)
 
 As you read the instructions, keep open the Duckuments source, and note any
 discrepancies. You must note any unexpected thing that is not predicted from the
