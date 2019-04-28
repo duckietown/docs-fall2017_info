@@ -37,9 +37,6 @@ For ETHZ, UdeM and TTIC fill in this [Preliminary Student Questionnaire][q0].
 
 **Zurich: Please fill in questionnaire by Tuesday, September 26, 15:00 (extended from original deadline of 12:00).**
 
-Point of contact: if you have problems with this step, please contact
-Jacopo Tani &lt;tanij@ethz.ch&gt;.
-
 ### Accept invite to Github organization Duckietown
 
 After we receive the questionnaire, we will invite you to the Duckietown

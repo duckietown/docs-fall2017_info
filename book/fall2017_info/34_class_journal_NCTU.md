@@ -1,4 +1,4 @@
-# NCTU branch diary {#schedule_NCTU status=beta}
+# NCTU branch diary {#schedule_NCTU status=ready}
 
 Classes take place on Thursday from 1:20pm-4:20pm in NCTU Engineering Building 5 Room 635.
 
@@ -19,9 +19,8 @@ The following is a list of the course material. Please preview the course every 
 
 See: [Course Material](https://drive.google.com/drive/folders/0B32gBaWlFI1QbV8wcWxxU29YOEU?usp=sharing)
 
-&nbsp;
 
-* **Thursday October 12, 1:20pm **: [Week5 Material](https://drive.google.com/drive/folders/0Byy2Ai4ydUvGaWJMLVNwSi1hZHM?usp=sharing)
+* **Thursday October 12, 1:20pm**: [Week5 Material](https://drive.google.com/drive/folders/0Byy2Ai4ydUvGaWJMLVNwSi1hZHM?usp=sharing)
 
 
 
@@ -33,7 +32,7 @@ See: [Course Material](https://drive.google.com/drive/folders/0B32gBaWlFI1QbV8wc
 * Duckietown Course Intro ([Week1 Material](https://drive.google.com/drive/folders/0B32gBaWlFI1QTXJHLTk3MzdYLVU?usp=sharing))
 
 
-## Thursday September 21: Project Ideas 
+## Thursday September 21: Project Ideas
 
 How do you choose a good project idea? How about "writing" a good project idea?
 
@@ -109,10 +108,7 @@ We will let them control the duckiebots by joystick to finish the wheel calibrat
 See: [Week6 Lab](https://drive.google.com/drive/folders/0BwVN0d88p9cIZUlRY1VuaVlROW8)
 
 
-
-
-
-##  (Template for every lecture) Date: Topic {status=draft}
+##  (Template for every lecture) Date: Topic {status=ready}
 
 What is this lecture all about?
 

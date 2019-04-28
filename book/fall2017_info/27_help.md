@@ -1,4 +1,4 @@
-# Getting and giving help {#help status=beta}
+# Getting and giving help {#help status=ready}
 
 ## *Who* to ask for help
 
